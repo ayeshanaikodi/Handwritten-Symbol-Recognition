@@ -1,4 +1,4 @@
-Handwritten Symbol Recognition
+##Handwritten Symbol Recognition
 
 Recognizes 25 symbols.
 
